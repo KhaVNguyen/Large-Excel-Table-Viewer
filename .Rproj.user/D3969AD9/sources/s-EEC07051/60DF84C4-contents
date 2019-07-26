@@ -11,11 +11,15 @@ fluidPage(
     column(6,
            fileInput("file", 
                      "Choose a Excel (.xlxs or .csv) file",
-                     accept = c("text/csv",
+                     accept = c("text/xlxs",
+                                ".xlxs",
+                                "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                "text/csv",
                                 "text/comma-separated-values,text/plain",
-                                ".csv",
-                                "text/xlxs",
-                                ".xlxs"))
+                                ".csv"
+                                )
+                     ),
+           align="right"
            
     )
   ),

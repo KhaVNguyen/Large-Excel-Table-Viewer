@@ -1,0 +1,12 @@
+name: Large_Excel_File_Loader
+title: Large_Excel_File_Loader
+username:
+account: khavnguyen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1052844
+bundleId: 2267915
+url: https://khavnguyen.shinyapps.io/Large_Excel_File_Loader/
+when: 1564162874.16524
+asMultiple: FALSE
+asStatic: FALSE
