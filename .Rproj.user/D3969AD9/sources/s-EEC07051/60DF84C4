@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "136672168",
     "id" : "60DF84C4",
-    "lastKnownWriteTime" : 1564163896,
-    "last_content_update" : 1564163896759,
+    "lastKnownWriteTime" : 1564178286,
+    "last_content_update" : 1564178286625,
     "path" : "~/Large Excel File Loader/ui.R",
     "project_path" : "ui.R",
     "properties" : {
-        "cursorPosition" : "10,12",
+        "cursorPosition" : "22,11",
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },

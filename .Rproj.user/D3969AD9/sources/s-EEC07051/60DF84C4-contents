@@ -20,8 +20,7 @@ fluidPage(
                                 )
                      ),
            align="right"
-           
-    )
+           )
   ),
     DT::dataTableOutput("table")
 )
