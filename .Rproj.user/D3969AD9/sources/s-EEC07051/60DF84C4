@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564098464904.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "60DF84C4",
+    "lastKnownWriteTime" : 1564160667,
+    "last_content_update" : 1564160667764,
+    "path" : "~/Large Excel File Loader/ui.R",
+    "project_path" : "ui.R",
+    "properties" : {
+        "cursorPosition" : "8,46",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564098152080.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "26FB565F",
+    "lastKnownWriteTime" : 1564161010,
+    "last_content_update" : 1564161010478,
+    "path" : "~/Large Excel File Loader/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+        "cursorPosition" : "10,20",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
